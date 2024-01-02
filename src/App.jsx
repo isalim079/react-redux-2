@@ -1,7 +1,7 @@
 
 import './App.css'
 import Counter from './components/Counter'
-import ReduxCounter from './components/ReduxCounter'
+import ReduxCounter from './components/ReduxCounter/ReduxCounter'
 
 function App() {
 
